@@ -66,20 +66,37 @@ The live deployed site can be found at
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+Before you begin, ensure you have the following software and tools installed on your local machine:
 
 ### Prerequisites
 
-Install npm on your local machine
+1. **Node.js and npm**  
+   Node.js is required to run the JavaScript runtime environment, while npm (Node Package Manager) manages packages for your React and TypeScript application.
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+   - **Install npm and Node.js**:  
+     Download the latest version of Node.js, which includes npm, from the [official Node.js website](https://nodejs.org/).
+
+   - **Verify installation**:
+     ```sh
+     node -v
+     npm -v
+     ```
+
+
+2. **Visual Studio Code (VS Code)**  
+   VS Code is a recommended code editor for working with JavaScript, TypeScript, and React. It offers various extensions to enhance the development experience.
+
+   - **Download and Install VS Code**:  
+     Visit the [official Visual Studio Code website](https://code.visualstudio.com/).
+
+   - **Recommended Extensions**:
+     - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Helps maintain consistent code quality.
+     - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Automatically formats your code.
+     - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets): Adds code snippets for JavaScript and TypeScript.
+     - [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack): Enhances the development of Spring Boot applications.
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+To get a local copy up and running locally on your computer follow these steps:
 
 1. Clone the repo
    ```sh
