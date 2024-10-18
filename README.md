@@ -46,7 +46,8 @@
 
 Tracking job applications can be very stressful. Jobster is an app built to solve this problem. Create an account and get started!
 
-The live deployed site can be found at 
+The live deployed site can be found at [Job-Tracking-App]([https://github.com/yourusername](https://job-tracking-app-n2ng.onrender.com/landing))
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
